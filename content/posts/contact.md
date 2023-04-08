@@ -12,7 +12,7 @@ This site is a snapshot of a few personal projects on GitHub; some useful, some 
 <!--more-->
 
 **Personal Blog [http://fredlackey.com](http://fredlackey.com)**  
-There's everything in this one.  From random thoughts or hhelpful info to just complete babble.
+There's everything in this one.  From random thoughts or helpful info to just complete babble.
 
 **RESTUtils [http://restutils.com](http://restutils.com)**  
 Info on a cool utility I created which allows developers to standup a complete API without typig any code.  Or, if you want your own custom API, you can write a simple JavaScript file with normal function calls and methods.  RESTUtils will handle everything else.
