@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Fred Lackey&#39;s Personal Projects</title>
+    <link>https://FredLackey.github.io/posts/</link>
+    <description>Recent content in Posts on Fred Lackey&#39;s Personal Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Apr 2023 20:48:55 -0400</lastBuildDate><atom:link href="https://FredLackey.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Contact Me</title>
+      <link>https://FredLackey.github.io/posts/contact/</link>
+      <pubDate>Fri, 07 Apr 2023 20:48:55 -0400</pubDate>
+      
+      <guid>https://FredLackey.github.io/posts/contact/</guid>
+      <description>&lt;p&gt;This site is a snapshot of a few personal projects on GitHub; some useful, some not.  A few of my more interesting sites are&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project List</title>
+      <link>https://FredLackey.github.io/posts/projects/</link>
+      <pubDate>Fri, 07 Apr 2023 20:48:55 -0400</pubDate>
+      
+      <guid>https://FredLackey.github.io/posts/projects/</guid>
+      <description>&lt;p&gt;Of the 70+ projects I have floating around on GitHub, here are a few I find most interesting&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

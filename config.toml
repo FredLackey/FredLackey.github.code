@@ -1,0 +1,30 @@
+baseURL = "https://FredLackey.github.io/"
+languageCode = "en-us"
+title = "Fred Lackey's Personal Projects"
+theme = "mainroad"
+
+[Author] # Used in authorbox
+  name = "Fred Lackey"
+  bio = "Veteran software developer and entrepreneur."
+  avatar = "img/avatar.png"
+
+[Params]
+  description = "Fred Lackey's Personal Projects" # Site description. Used in meta description
+  copyright = "Fredrick Lackey" # Footer copyright holder, otherwise will use site title
+
+[Params.logo]
+  subtitle = "You really should visit my personal blog!" # Logo subtitle
+
+[Params.widgets.social]
+  email = "fred.lackey@gmail.com"
+
+[[Params.widgets.social.custom]]
+  title = "Go to Fred's Blog >>"
+  url = "https://fredlackey.com"
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["social"]
